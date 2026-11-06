@@ -64,7 +64,7 @@ These findings indicate associations within the dataset. They do not establish c
 
 The complete notebook, including Python code, data exploration, summary tables, and visualisations, is available here:
 
-Open the Student Performance Analytics Notebook on Deepnote
+[Open the Student Performance Analytics Notebook on Deepnote](https://deepnote.com/workspace/my-space-note-f90a5117-6718-4805-b037-9786378cf456/project/Student-Performance-Analytics-c6a46aca-74c2-49b7-bca1-982b2cca9844/notebook/Student-Performance-Analytics-9f8b72fc3efa4d61890ec88a2d060f91?utm_content=c6a46aca-74c2-49b7-bca1-982b2cca9844)
 
 ⸻
 
